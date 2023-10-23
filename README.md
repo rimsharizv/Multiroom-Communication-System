@@ -31,10 +31,6 @@ The Multi-Room Communication System is a wireless communication system designed 
 - Output: 
   - LCD to show messages from other Arduinos and the selected emergency code
 
-## Lessons Learned:
-- The importance of thorough planning and research before starting a project, including researching hardware and software components for compatibility.
-- The need for flexibility and quick problem-solving when faced with challenges, such as hardware incompatibility.
-
 ## References:
 - Admin. (2022, August 22). Simple phone: Call & SMS using GSM module & Arduino. How To Electronics. Retrieved March 6, 2023, from [Link](https://how2electronics.com/call-sms-using-gsm-module-arduino/)
 - Koumarid, Nick. (2018, December 22). Communication between Two Arduinos Using NRF24L01. Electronics. Retrieved March 6, 2023, from [Link](https://www.electronics-lab.com/project/communication-between-two-arduinos-using-nrf 24l01/)
