@@ -33,7 +33,6 @@ The Multi-Room Communication System is a wireless communication system designed 
 
 ## References:
 - Admin. (2022, August 22). Simple phone: Call & SMS using GSM module & Arduino. How To Electronics. Retrieved March 6, 2023, from [Link](https://how2electronics.com/call-sms-using-gsm-module-arduino/)
-- Koumarid, Nick. (2018, December 22). Communication between Two Arduinos Using NRF24L01. Electronics. Retrieved March 6, 2023, from [Link](https://www.electronics-lab.com/project/communication-between-two-arduinos-using-nrf 24l01/)
 - Lambert, Graham. (2021, November 17). Wireless Communication between Two Arduinos. Circuit Basics. Retrieved March 6, 2023, from [Link](https://www.circuitbasics.com/wireless-communication-between-two-arduinos/)
 
 ## Statement of Original Work:
