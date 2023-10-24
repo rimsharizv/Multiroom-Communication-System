@@ -37,11 +37,11 @@ The Multi-Room Communication System is a wireless communication system designed 
 - Lambert, Graham. (2021, November 17). Wireless Communication between Two Arduinos. Circuit Basics. Retrieved March 6, 2023, from [Link](https://www.circuitbasics.com/wireless-communication-between-two-arduinos/)
 
 ## Statement of Original Work:
-Our project is unique as it combines LCD displays and the concept of pre-set emergency codes with the use of a potentiometer, allowing for quick and efficient communication during emergencies. The use of an LED to indicate the mode (transmit or receive) adds an additional layer of user-friendliness to the system. This project stands out as a reliable, versatile, and user-friendly communication system that can be utilized in various settings, including farming, to monitor environmental factors and respond to emergencies promptly.
+Our project is unique as it combines LCDs and the concept of pre-set emergency codes with the use of a potentiometer, allowing for quick and efficient communication during emergencies. The use of an LED to indicate the mode (transmit or receive) adds a layer of user-friendliness to the system. This project stands out as a reliable, versatile, and user-friendly communication system that can be utilized in various settings, including farming, to monitor environmental factors and respond to emergencies promptly.
 
 ## Copyright and Plagiarism Notice
 All content in this repository, including code, documentation, and other materials, is the property of Avi Bhatnagar, Rimsha Rizvi, and Shehriar Burney.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
+Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
+If you would like to use this work for educational or other non-commercial purposes, don't hesitate to get in touch with the authors for permission.
 
 
